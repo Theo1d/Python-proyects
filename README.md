@@ -1,1 +1,1 @@
-Collection of Python proyects which porpouse is getting better at programming 
+Collection of Python proyects which purpose is getting better at programming 
